@@ -833,6 +833,7 @@ p {
     background-position: 50% 50%;
     height: 120vh;
     background-color: #000000;
+    overflow: hidden;
   }
 
   #section-one .header {
